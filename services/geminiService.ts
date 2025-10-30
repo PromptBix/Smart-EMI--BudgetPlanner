@@ -1,7 +1,7 @@
 
 import { GoogleGenAI } from "@google/genai";
 
-const API_KEY = process.env.API_KEY;
+const API_KEY = AIzaSyDD-ZYkq7gi_XsR_tDFAQTPqC4udSd4NAc;
 
 if (!API_KEY) {
   // In a real app, you might show an error to the user or disable AI features.
